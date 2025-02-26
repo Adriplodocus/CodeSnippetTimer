@@ -1,0 +1,12 @@
+{
+  "name": "com.adrian.codesnippettimer",
+  "version": "1.0.0",
+  "displayName": "Code snippet timer",
+  "description": "Measures how much time a code snippet takes to run.",
+  "unity": "2019.4",
+  "author": {
+    "name": "Adrian",
+    "email": "adrian08.1991@gmail.com",
+    "url": ""
+  }
+}
